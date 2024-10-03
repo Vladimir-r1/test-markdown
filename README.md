@@ -12,9 +12,9 @@ ___
 - JavaScript
 ___
 ### HTML
-**HTML** (HyperText Markup Language) - это стандартный язык разметки для создания вебстраниц. Он используется для структурировани  
+**HTML** (*HyperText Markup Language*) - это стандартный язык разметки для создания вебстраниц. Он используется для структурировани  
 ### CSS
-**CSS** (Cascading Style Sheets) - это язык стилей, используемый для описания внешнего вида документа, написанного на
+**CSS** (*Cascading Style Sheets*) - это язык стилей, используемый для описания внешнего вида документа, написанного на
 HTML. С его помощью можно задавать цвета, шрифты, отступы и другие визуальные параметры.  
 ### JavaScript
 **JavaScript** - это язык программирования, который позволяет реализовывать сложное поведение на веб-страницах. Он
@@ -41,7 +41,7 @@ ___
 </body>
 </html>
 ```
-###CSS
+### CSS
 ```CSS
 body {
  font-family: Arial, sans-serif;
@@ -76,7 +76,7 @@ button:hover {
  background-color: #0056b3;
 }
 ```
-###JavaScript
+### JavaScript
 ```JavaScript
 function showMessage() {
  alert('Привет, мир!');
@@ -93,6 +93,6 @@ ___
 - [ ] Создать свой первый веб-сайт
 ___  
 ## Ссылки
-[JavaScript](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)  
-[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  
-[HTML](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[***JavaScript***](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)  
+[***CSS***](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[***HTML***](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
