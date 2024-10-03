@@ -21,7 +21,8 @@ HTML. С его помощью можно задавать цвета, шриф�
 используется для создания интерактивных элементов, таких как кнопки, формы и анимации.
 ___
 ## Пример кода
-``` ### HTML
+### HTML
+```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -40,7 +41,8 @@ ___
 </body>
 </html>
 ```
-``` ### CSS
+###CSS
+```CSS
 body {
  font-family: Arial, sans-serif;
  background-color: #f0f0f0;
@@ -74,7 +76,8 @@ button:hover {
  background-color: #0056b3;
 }
 ```
-``` ### JavaScript
+###JavaScript
+```JavaScript
 function showMessage() {
  alert('Привет, мир!');
  console.log('Кнопка нажата');
